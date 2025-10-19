@@ -1,4 +1,4 @@
----
+first week homework
 title: "Fundamentals of Programming 2025"
 author: "Berry Boessenkool;"
 date: now
