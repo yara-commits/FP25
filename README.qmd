@@ -1,7 +1,7 @@
 first week homework
 title: "Fundamentals of Programming 2025"
 author: "Berry Boessenkool;"
-date: now
+date: 17-10-2025
 date-format: YYYY-MM-DD, HH:MM
 format:
     gfm: 
